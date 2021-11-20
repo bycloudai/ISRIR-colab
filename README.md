@@ -4,7 +4,7 @@
 
 I just quickly modified the official colab and made it mount to your own Google Drive. 
 
-Create a folder in your Google Drive named "ISRIR", upload each of the [FFHQ 512×512](https://www.kaggle.com/arnaud58/flickrfaceshq-dataset-ffhq) files into the folder. When you mount it, it'll be looking at that file location for the checkpoints. 
+Create a folder in your Google Drive named "ISRIR", upload each of the [FFHQ 512×512](https://www.kaggle.com/arnaud58/flickrfaceshq-dataset-ffhq) files into the folder. When you mount your Google Drive in Colab, it'll be looking at that file location for the checkpoints. 
 
 **Image Super-Resolution via Iterative Refinement colab**: <a href="https://colab.research.google.com/github/bycloudai/ISRIR-colab/blob/main/ISRIR-colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
